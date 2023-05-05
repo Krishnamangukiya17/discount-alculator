@@ -1,1 +1,1 @@
-# discount-alculator
+# discount-calculator
